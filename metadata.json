@@ -1,0 +1,5 @@
+{
+  "name": "Tinnitus Matcher",
+  "description": "An advanced audio tool designed to help users identify and match the specific frequency and characteristics of their tinnitus by generating customizable soundscapes. Adjust noise color, tone frequency, and apply filters to create a precise audio match.",
+  "requestFramePermissions": []
+}
